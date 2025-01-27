@@ -1,0 +1,34 @@
+.todos {
+	align-self: baseline;
+	max-width: 100%;
+	list-style: none;
+	margin: 0;
+	padding: 20px 20px 0 20px;
+	padding-bottom: 0;
+	color: #776a5e;
+}
+
+.item {
+	padding: 10px 0;
+}
+
+.loader {
+	width: 48px;
+	height: 48px;
+	padding: 20px 20px 0 20px;
+	border-radius: 50%;
+	display: inline-block;
+	border-top: 3px solid #fcd9b8;
+	border-right: 3px solid transparent;
+	box-sizing: border-box;
+	animation: rotation 1s linear infinite;
+}
+
+@keyframes rotation {
+	0% {
+		transform: rotate(0deg);
+	}
+	100% {
+		transform: rotate(360deg);
+	}
+}

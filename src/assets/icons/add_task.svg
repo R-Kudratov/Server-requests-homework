@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="6349dfff-6a7a-4c55-9587-c7476e0a926b"  >
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="0c11e74a-0d9c-466c-a13d-f539cbc04e08"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(119,106,94); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-213.33, -213.33)" d="M 405.332031 192 L 234.66796899999997 192 L 234.66796899999997 21.332031 C 234.66796899999997 9.558594000000001 225.10937499999997 0 213.33203099999997 0 C 201.55859399999997 0 191.99999999999997 9.558594 191.99999999999997 21.332031 L 191.99999999999997 192 L 21.332030999999972 192 C 9.558593999999973 192 -2.842170943040401e-14 201.558594 -2.842170943040401e-14 213.332031 C -2.842170943040401e-14 225.109375 9.558593999999971 234.667969 21.332030999999972 234.667969 L 191.99999999999997 234.667969 L 191.99999999999997 405.33203100000003 C 191.99999999999997 417.109375 201.55859399999997 426.667969 213.33203099999997 426.667969 C 225.10937499999997 426.667969 234.66796899999997 417.109375 234.66796899999997 405.33203100000003 L 234.66796899999997 234.66796900000003 L 405.332031 234.66796900000003 C 417.109375 234.66796900000003 426.66796899999997 225.10937500000003 426.66796899999997 213.33203100000003 C 426.66796899999997 201.55859400000003 417.109375 192.00000000000003 405.332031 192.00000000000003 z M 405.332031 192" stroke-linecap="round" />
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+<g transform="matrix(0 0 0 0 0 0)"  >
+<g style=""   >
+</g>
+</g>
+</svg>

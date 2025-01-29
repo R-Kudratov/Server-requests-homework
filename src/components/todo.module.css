@@ -53,12 +53,12 @@
 }
 
 .submitBtn {
-	background-image: url('../../assets/icons/add_task.svg');
+	background-image: url('../assets/icons/add_task.svg');
 	top: 0;
 }
 
 .sortSwitch {
-	background-image: url('../../assets/icons/sort.svg');
+	background-image: url('../assets/icons/sort.svg');
 	background-color: #f2f2f2;
 }
 
@@ -67,22 +67,22 @@
 }
 
 .searchBtn {
-	background-image: url('../../assets/icons/search.svg');
+	background-image: url('../assets/icons/search.svg');
 	right: 11%;
 	background-color: #f2f2f2;
 }
 
 .deleteBtn {
-	background-image: url('../../assets/icons/remove_task.svg');
+	background-image: url('../assets/icons/remove_task.svg');
 }
 
 .editBtn {
-	background-image: url('../../assets/icons/edit_task.svg');
+	background-image: url('../assets/icons/edit_task.svg');
 	right: 9%;
 }
 
 .confirmEditBtn {
-	background-image: url('../../assets/icons/confirm_edit_task.svg');
+	background-image: url('../assets/icons/confirm_edit_task.svg');
 	right: 9%;
 }
 

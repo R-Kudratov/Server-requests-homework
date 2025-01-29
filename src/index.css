@@ -5,7 +5,7 @@ body {
 	align-items: center;
 	justify-content: center;
 	margin: 0;
-	height: 100vh;
+	min-height: 100vh;
 	font-family: 'Montserrat';
 	background-color: #fcd9b8;
 }
